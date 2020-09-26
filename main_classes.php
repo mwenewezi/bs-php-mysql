@@ -134,12 +134,7 @@
 			}
 			return $ret;
 		}
-		
-	}
-	/**
-	 * check numrows
-	 */
-	class BS_ALLROWCOUNT{
+
 		function bs_allrowcounter($table,$data){
 			//SET DB CONNECTION
 			$db="";
